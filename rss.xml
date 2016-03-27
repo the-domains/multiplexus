@@ -4,14 +4,14 @@
         <description><![CDATA[multiplexus]]></description>
         <link>https://thegrid.ai/multiplexus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 18:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 18:43:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/multiplexus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<article><h1>Test Post</h1><p>Test</p></article>]]></description>
             <link>https://thegrid.ai/multiplexus/b94c6702-64f2-44f2-98b2-8d22850258a1/index.html</link>
             <guid isPermaLink="false">b94c6702-64f2-44f2-98b2-8d22850258a1</guid>
-            <pubDate>Sun, 27 Mar 2016 18:36:42 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 18:43:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
