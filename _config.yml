@@ -1,13 +1,24 @@
-analytics: {}
+name: Multiplexus
+favicon: null
+layout_spectrum: 0.471847
+typography_spectrum: 0.7693965148646384
+title: multiplexus
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors: []
   brandStrength: 0.39503099699504673
   lightness: 0.8776024994440377
-  rhythmicContrast: 0.6778949284926057
   saturation: 0.5655273920856416
-cta: {}
-layout_spectrum: 0.471847
-name: Multiplexus
-opengraph: {}
+  rhythmicContrast: 0.6778949284926057
 purpose: []
-typography_spectrum: 0.7693965148646384
